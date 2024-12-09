@@ -1,0 +1,11 @@
+city_name,actual_trips,target_trips,performance_status,percentage_difference
+Visakhapatnam,28366,28500,"Below Target",-0.47
+Chandigarh,38981,39000,"Below Target",-0.05
+Surat,54843,57000,"Below Target",-3.78
+Vadodara,32026,37500,"Below Target",-14.60
+Mysore,16238,13500,"Above Target",20.28
+Kochi,50702,49500,"Above Target",2.43
+Indore,42456,43500,"Below Target",-2.40
+Jaipur,76888,67500,"Above Target",13.91
+Coimbatore,21104,21000,"Above Target",0.50
+Lucknow,64299,72000,"Below Target",-10.70
