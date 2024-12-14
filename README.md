@@ -1,4 +1,4 @@
-GOODCABS - TRANSPORTATION AND MOBILITY
+
 
 𝗖𝗮𝗯𝘀, 𝗖𝗵𝗮𝗹𝗹𝗲𝗻𝗴𝗲𝘀, 𝗮𝗻𝗱 𝗗𝗮𝘁𝗮-𝗜𝗻𝗳𝗼𝗿𝗺𝗲𝗱 𝗦𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀!
 
@@ -48,6 +48,6 @@ Enhance my storytelling abilities by delivering insights that resonate with stak
 
 Strengthen my technical expertise in Power BI, SQL, and data modeling to tackle real-world challenges.
 
-This journey reaffirmed my passion for using data to drive impact and make informed decisions. I’m incredibly grateful to the Dhaval Patel sir , Hemanand Vadivel sir and Codebasics community for this opportunity and look forward to solving more data challenges! 🚀
+This journey reaffirmed my passion for using data to drive impact and make informed decisions. 
 
-Let me know if you’d like additional tweaks or more focus on specific aspects!
+
